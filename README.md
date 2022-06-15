@@ -35,12 +35,6 @@
 </div>
 
 ###
-<h1 align="left">Activities</h1>
-
-###
-<img href="https://github.com/HenriqueRamos13/HenriqueRamos13/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <h1 align="left">Profile Views</h1>
 
 ###
