@@ -6,6 +6,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=HenriqueRamos13" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+    <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueRamos13&theme=github_dark"/>
+    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenriqueRamos13&theme=github_dark&utcOffset=-3"/>
+    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HenriqueRamos13&theme=github_dark"/>
+</div>
+
 ###
 <h1 align="left">Stacks</h1>
 
